@@ -1,16 +1,7 @@
 # my_primary_app_dio
 
-A new Flutter project.
+Projeto criado pelo autor Ruben Freitas.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este projeto foi cliado para ser entregue em uma atividade da dio de primeira aplicação usando o framework Flutter. Realizei algumas alterações básicas como mudar cor primaria do thema da aplicação, mudar o estilo do texto e adicionar uma linha com dois botões, no qual o de **"-"** decrementa o counter e o de **"+"** incrementa o counter.
