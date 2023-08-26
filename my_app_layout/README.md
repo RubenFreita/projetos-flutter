@@ -12,4 +12,6 @@ A few resources to get you started if this is your first Flutter project:
 ### Print da tela do aplicativo:
 
 [Imagem do print da tela do aplicativo](/my_app_layout/assets/images/image.png)
-<img src="/assets/img/arquivo.gif">
+
+
+<img src="/my_app_layout/assets/images/image.png">
